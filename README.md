@@ -1,2 +1,1 @@
-# ADS-Assignment2
-Climate Data Analysis
+# ADS-Climate Data Analysis
